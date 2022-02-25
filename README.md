@@ -4,7 +4,7 @@ This repository contains scripts used within my professional career.
 
 In order to maintain client confidentiality, the scripts have been altered slightly as to not reveal information about the client or the client's data. 
 
-### Script Glossary
+### Repository Table of Contents
 
 | File Name | Input Data Source | Output Data Source | Description |
 | --------- | ----------------- | ------------------ | ----------- |
